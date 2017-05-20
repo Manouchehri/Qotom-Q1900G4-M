@@ -1,0 +1,1324 @@
+0x8005c7b 11 10 u\aD9t$ v$I
+0x80099b5 9 8 D9@\bu\tfC
+0x800cdf3 10 9 B\bI9B\bt&H
+0x800ce8b 10 9 B\bI9B\bt&H
+0x800cfdd 9 8 A\bH9C\btN
+0x8010630 9 8 t\bfD\vD$h
+0x8010b60 11 10 T$XfD9t$Pu
+0x8010eb7 11 10 T$PfD9l$`t
+0x801111c 14 13 f9t$Zu\af9t$\t
+0x80116a7 14 13 f;D$8t\tf;D$Hu
+0x80116b6 12 11 3f;D$Hu,fD;
+0x8014951 9 8 t0D8\et\bH
+0x8018b7c 11 10 tsfE94$ulI
+0x801ff53 10 9 Sf;t$ s\af
+0x8026d6b 9 8 D$0t\nfD\v
+0x80316b1 14 13 AimConfigData
+0x8031d49 11 10 UndiNVData
+0x8032b70 28 13 AimConfigData
+0x8032c39 48 23 English (United States)
+0x8032c6a 48 23 PCI Generic Information
+0x8032c9b 46 22 Firmware Information 1
+0x8032cca 40 19 Network Information
+0x8032cf3 32 15 Physical Port 1
+0x8032d14 30 14 Logical Port 1
+0x8032d53 26 12 Manufacturer
+0x8032d6e 28 13 Serial Number
+0x8032d8b 24 11 Part Number
+0x8032dd5 30 14 Max Data Width
+0x8032df4 34 16 Connector Layout
+0x8032e17 26 12 Package Type
+0x8032e32 38 18 Other Package Type
+0x8032e59 34 16 AIM Spec Version
+0x8032e7c 24 11 UCM Version
+0x8032e95 28 13 Firmware Name
+0x8032eb2 30 14 Version String
+0x8032ed1 24 11 Description
+0x8032eea 26 12 Release Date
+0x8032f05 30 14 Classification
+0x8032f24 24 11 Software ID
+0x8032f3d 50 24 Number of Physical Ports
+0x8032f70 56 27 Max Number of Logical Ports
+0x8032fa9 66 32 Physical Port's Connector Layout
+0x8032fec 40 19 Physical Port Index
+0x8033015 48 23 Number of Logical Ports
+0x8033046 36 17 Permanent Address
+0x803306b 28 13 Max Data Size
+0x8033088 36 17 Permanent Address
+0x80330ad 36 17 Network Addresses
+0x80330d2 38 18 Logical Port Index
+0x80330f9 32 15 Link Technology
+0x8033144 28 13 Protocol Type
+0x8033161 62 30 Current Work Protocol Ethernet
+0x80331a0 60 29 Current Work Protocol FCoE/FC
+0x80331dd 56 27 Current Work Protocol iSCSI
+0x803323f 28 13 Chassis/Frame
+0x803325c 48 23 Cross Connect/Backplane
+0x803328d 42 20 Container/Frame Slot
+0x80332b8 26 12 Power Supply
+0x80332eb 24 11 Module/Card
+0x8033304 30 14 Port/Connector
+0x8033358 46 22 Power Source/Generator
+0x8033387 44 21 Storage Media Package
+0x80333c1 32 15 Blade Expansion
+0x8033457 36 17 SCSI High Density
+0x803347c 34 16 SCSI Low Density
+0x80334f0 22 10 Fiber-RTMJ
+0x80335c8 62 30 FlexSystem Mezzanine Connector
+0x8033607 70 34 FlexSystem Mid-Mezzanine Connector
+0x803364e 54 26 BladeCenter CFFh Connector
+0x8033685 54 26 BladeCenter CIOv Connector
+0x80336ee 32 15 Software Bundle
+0x8033735 30 14 ethernetCsmacd
+0x8033754 46 22 Shared Memory Features
+0x8033783 210 104 Disable usage of reserved memory regions to allow direct assignment of device to guest virtual machines.
+0x8033856 68 33 Intel PRO/1000 Network Connection
+0x803389b 90 44 Configure Gigabit Ethernet device parameters
+0x80338f6 48 23 Main Configuration Page
+0x8033927 24 11 MAC Address
+0x8033940 60 29 %02x:%02x:%02x:%02x:%02x:%02x
+0x803397d 92 45 Factory default MAC address of Ethernet port.
+0x80339da 40 19 Virtual MAC Address
+0x8033a03 100 49 Programmatically assignable MAC address for port.
+0x8033a68 24 11 PCI Address
+0x8033a94 42 20 PCI device location.
+0x8033abf 24 11 Adapter PBA
+0x8033adf 196 97 A Printed Board Assembly (PBA) number is a unique code used to identify a printed board assembly.
+0x8033bb9 38 18 Unknown Controller
+0x8033be0 64 31 Network controller part number.
+0x8033c21 28 13 PCI Device ID
+0x8033c3e 40 19 %04x/%04x/%04x/%04x
+0x8033c72 58 28 PCI Device ID of this device
+0x8033cad 24 11 UEFI Driver
+0x8033ccd 72 35 UEFI driver name and version number
+0x8033d16 22 10 Blink LEDs
+0x8033d2d 134 66 Identify the physical network port by blinking the associated LED.
+0x8033db4 36 17 NIC Configuration
+0x8033dd9 88 43 Click to configure the network device port.
+0x8033e32 36 17 NIC Configuration
+0x8033e57 120 59 Configure Boot Protocol, Wake on LAN, Link Speed, and VLAN.
+0x8033ed0 42 20 Legacy Boot Protocol
+0x8033efb 82 40 Select a non-UEFI network boot protocol.
+0x8033f57 28 13 iSCSI Primary
+0x8033f74 32 15 iSCSI Secondary
+0x803404e 22 10 Link Speed
+0x8034065 124 61 Specifies the port speed used for the selected boot protocol.
+0x80340e2 32 15 Auto Negotiated
+0x8034103 26 12 10 Mbps Half
+0x803411e 26 12 10 Mbps Full
+0x8034139 28 13 100 Mbps Half
+0x8034156 28 13 100 Mbps Full
+0x8034173 30 14 1000 Mbps Half
+0x8034192 30 14 1000 Mbps Full
+0x80341b1 26 12 10 Gbps Half
+0x80341cc 26 12 10 Gbps Full
+0x8034209 24 11 Wake On LAN
+0x8034222 436 217 Enables power on of the system via LAN. Note that configuring Wake on LAN in the operating system does not change the value of this setting, but does override the behavior of Wake on LAN in OS controlled power states.
+0x8034404 24 11 Link Status
+0x803441d 24 11 Link Status
+0x8034436 26 12 Disconnected
+0x8034466 54 26 Device Level Configuration
+0x803449d 102 50 View and configure global device level parameters.
+0x8034504 54 26 Device Level Configuration
+0x803453b 40 19 Virtualization Mode
+0x8034564 120 59 Specifies the virtualization mode setting of the controller
+0x80345f7 66 32 PCI Virtual Functions Advertised
+0x803463a 180 89 The number of PCI Virtual Functions (VFs) to be advertised on this port in non-NPAR mode.
+0x80346ef 30 14 SR-IOV Support
+0x803470e 26 12 RDMA Support
+0x8034752 76 37 Number of Virtual Functions Supported
+0x803479f 104 51 Number of virtual functions supported on this port.
+0x8034808 40 19 VF Allocation Basis
+0x8034831 122 60 Defines the domain in which Virtual Functions are allocated.
+0x80348c6 46 22 VF Allocation Multiple
+0x80348f5 150 74 Virtual Functions must be allocated to a port in multiples of this number.
+0x803498c 36 17 Link Speed Status
+0x80349b1 36 17 Link Speed Status
+0x80349d6 52 25 Firmware Image Properties
+0x8034a0b 52 25 Firmware Image Properties
+0x8034a40 38 18 Option ROM version
+0x8034a7a 52 25 Option ROM version number
+0x8034aaf 42 20 Unique NVM/EEPROM ID
+0x8034aed 58 28 Unique NVM/EEPROM identifier
+0x8034b28 24 11 NVM version
+0x8034b54 38 18 NVM version number
+0x8034b7b 22 10 FW version
+0x8034ba5 48 23 Firmware version number
+0x8034bd6 48 23 Family Firmware Version
+0x8034c1a 108 53 Installed device firmware family version information.
+0x8034c87 24 11 EFI Version
+0x8034cbb 98 48 Installed device EFI driver version information.
+0x8034d1e 38 18 FCoE Configuration
+0x8034d45 64 31 Configure FCoE Boot parameters.
+0x8034d86 38 18 FCoE Configuration
+0x8034dd4 32 15 FIP MAC Address
+0x8034df5 130 64 FCoE Initialization protocol (FIP) MAC Address for this device. 
+0x8034e7b 42 20 World Wide Node Name
+0x8034ea6 84 41 World Wide Node Name for the boot target.
+0x8034efe 42 20 World Wide Port Name
+0x8034f29 84 41 World Wide Port Name for the boot target.
+0x8034f81 48 23 Virtual FIP MAC Address
+0x8034fb2 108 53 Programmatically assignable FIP-MAC address for FCoE.
+0x803501f 58 28 Virtual World Wide Node Name
+0x803505a 168 83 Programmatically assignable Fibre Channel World Wide Node Name identifier for FCoE.
+0x8035103 58 28 Virtual World Wide Port Name
+0x803513e 168 83 Programmatically assignable Fibre Channel World Wide Port Name identifier for FCoE.
+0x80351e7 60 29 FCoE Second Target Parameters
+0x8035224 58 28 FCoE Third Target Parameters
+0x803525f 58 28 FCoE Third Target Parameters
+0x803529a 60 29 FCoE Fourth Target Parameters
+0x80352d7 60 29 FCoE Fourth Target Parameters
+0x8035314 60 29 FCoE Second Target Parameters
+0x8035351 58 28 FCoE Third Target Parameters
+0x803538c 60 29 FCoE Fourth Target Parameters
+0x803547e 56 27 World Wide Port Name Target
+0x80354b7 82 40 World Wide Port Name of the boot target.
+0x803550a 56 27 World Wide Port Name Target
+0x8035543 56 27 World Wide Port Name Target
+0x803557c 56 27 World Wide Port Name Target
+0x80355c8 222 110 The Logical Unit Number to use on the FCoE target. The value of the LUN must be represented in decimal format.
+0x80356e0 30 14 Virtual LAN ID
+0x80356ff 82 40 Specify the VLAN ID for the FCoE Target.
+0x8035752 30 14 Virtual LAN ID
+0x8035771 30 14 Virtual LAN ID
+0x8035790 30 14 Virtual LAN ID
+0x80357af 22 10 Boot Order
+0x80357c6 136 67 Specify this port's place in the FCoE boot order 1-4 or 0=disabled.
+0x803584f 22 10 Boot Order
+0x8035866 22 10 Boot Order
+0x803587d 22 10 Boot Order
+0x8035894 22 10 Boot Order
+0x80358ab 22 10 Boot Order
+0x80358c2 22 10 Boot Order
+0x80358d9 40 19 iSCSI Configuration
+0x8035902 134 66 Configure general, initiator and target parameters for iSCSI boot.
+0x8035989 40 19 iSCSI Configuration
+0x80359b2 50 24 iSCSI General Parameters
+0x80359e5 72 35 Configure general iSCSI parameters.
+0x8035a2e 50 24 iSCSI General Parameters
+0x8035a61 54 26 iSCSI Initiator Parameters
+0x8035a98 154 76 Configuration of iSCSI initiator parameters (e.g., IP Address, Subnet Mask).
+0x8035b33 54 26 iSCSI Initiator Parameters
+0x8035b6a 60 29 iSCSI First Target Parameters
+0x8035ba7 158 78 Enable connection and configure communication parameters for the iSCSI target.
+0x8035c46 60 29 iSCSI First Target Parameters
+0x8035c83 54 26 TCP/IP Parameters via DHCP
+0x8035cba 218 108 This option is specific to IPv4. Controls the source of the initiator IP address, DHCP or static assignment.
+0x8035d95 52 25 iSCSI Parameters via DHCP
+0x8035dca 124 61 Enables the acquisition of iSCSI target parameters from DHCP.
+0x8035e6b 40 19 CHAP Authentication
+0x8035e94 200 99 Enable the ability of the initiator to use CHAP authentication when connecting to the iSCSI target.
+0x8035f5d 54 26 CHAP Mutual Authentication
+0x8035f94 274 136 To use mutual CHAP authentication, specify an initiator secret on the Initiator Parameters page and configure that secret on the target.
+0x80360cb 22 10 IP Version
+0x80360e2 258 128 Controls whether IPv4 or IPv6 network addressing will be used for iSCSI initiator and targets. Currently only IPv4 is supported.
+0x80361f0 22 10 IP Address
+0x8036207 98 48 Specifies the IP address of the iSCSI initiator.
+0x803626a 24 11 Subnet Mask
+0x8036283 110 54 Specifies the IPv4 Subnet Mask of the iSCSI initiator.
+0x80362f2 32 15 Default Gateway
+0x8036313 108 53 Specifies the Default Gateway of the iSCSI initiator.
+0x8036380 22 10 iSCSI Name
+0x8036397 104 51 Specifies the initiator iSCSI Qualified Name (IQN).
+0x8036411 142 70 iSCSI initiator Challenge-Handshake Authentication Protocol (CHAP) ID.
+0x80364a0 24 11 CHAP Secret
+0x80364b9 172 85 iSCSI initiator Challenge-Handshake Authentication Protocol (CHAP) secret (password).
+0x8036566 22 10 IP Address
+0x803657d 92 45 Specifies the IP address of the iSCSI target.
+0x80365ed 102 50 Specifies the TCP Port number of the iSCSI target.
+0x8036667 134 66 Specifies the iSCSI storage target boot Logical Unit Number (LUN).
+0x80366ee 22 10 iSCSI Name
+0x8036705 140 69 Specifies the iSCSI Qualified Name (IQN) of the iSCSI storage target.
+0x8036792 24 11 CHAP Secret
+0x80367ab 234 116 Specifies the iSCSI storage target Challenge-Handshake Authentication Protocol (CHAP) secret (target CHAP password).
+0x8036896 38 18 iSCSI Boot Support
+0x80368e6 36 17 FCoE Boot Support
+0x8036934 34 16 PXE Boot Support
+0x8036980 50 24 NIC Partitioning Support
+0x80369dc 44 21 iSCSI Offload Support
+0x8036a32 30 14 FlexAddressing
+0x8036a7a 24 11 TOE Support
+0x8036abc 60 29 iSCSI Dual IP Version Support
+0x8036b22 24 11 Unavailable
+0x8036b79 76 37 Official product name of this device.
+0x8036bc6 24 11 Device Name
+0x8036bdf 56 27 Intel Fortville device name
+0x8036c1b 58 28 The Image parameter was NULL
+0x8036c56 86 42 The specified Image Index is not supported
+0x8036cad 62 30 Invalid NVM Option ROM pointer
+0x8036cec 38 18 Invalid image size
+0x8036d13 58 28 Error validating input image
+0x8036d4e 86 42 The Image is not supported for this device
+0x8036da5 42 20 EEPROM size mismatch
+0x8036dd0 50 24 Memory allocation failed
+0x8036e03 68 33 EFI Decompress Protocol not found
+0x8036e48 60 29 Input image processing failed
+0x8036e85 86 42 Error preserving device configuration data
+0x8036edc 40 19 EEPROM write failed
+0x8036f05 38 18 EEPROM read failed
+0x8036f2c 60 29 CIVD not found in input image
+0x8036f69 36 17 VPD update failed
+0x8036f8e 34 16 NVM write failed
+0x8036fb1 32 15 NVM read failed
+0x8036fd2 34 16 NVM erase failed
+0x8036ff5 54 26 NVM data processing failed
+0x803702c 40 19 Device reset failed
+0x8037055 30 14 Virtual LAN ID
+0x8037074 290 144 Specifies the ID (tag) to be used for PXE VLAN Mode. The VLAN ID must be in the range from 0 to 4094. PXE VLAN is disabled if value is set to 0.
+0x8037197 52 25 x-UEFI Termination String
+0x8037201 44 21 Deutsch (Deutschland)
+0x8037231 50 24 Shared Memory-Funktionen
+0x8037264 274 136 Deaktivieren Sie die Nutzung reservierter Speicherbereiche, um die Direktzuweisung eines Geräts zu virtuellen Gastsystemen zu gestatten.
+0x8037377 68 33 Intel PRO/1000 Netzwerkverbindung
+0x80373bc 102 50 Parameter für Gigabit-Ethernet-Gerät konfigurieren
+0x8037423 50 24 Hauptkonfigurationsseite
+0x8037456 24 11 MAC-Adresse
+0x803746f 60 29 %02x:%02x:%02x:%02x:%02x:%02x
+0x80374ac 122 60 Werkseitige Standard-MAC-Adresse der Ethernet-Schnittstelle.
+0x8037527 44 21 Virtuelle MAC-Adresse
+0x8037554 104 51 Programmseitig zuweisbare MAC-Adresse für den Port.
+0x80375bd 24 11 PCI-Adresse
+0x80375e9 30 14 PCI-Geräteort.
+0x8037608 24 11 Adapter-PBA
+0x8037628 204 101 Die PBA-Nummer (Printed Board Assembly) ist eine eindeutige Kennung zur Identifikation einer Platine.
+0x8037706 46 22 Unbekannter Controller
+0x8037735 66 32 Netzwerk-Controller-Teilenummer.
+0x8037778 28 13 PCI-Geräte-ID
+0x8037795 40 19 %04x/%04x/%04x/%04x
+0x80377c9 56 27 PCI-Geräte-ID dieses Geräts
+0x8037802 26 12 UEFI-Treiber
+0x8037824 74 36 UEFI-Treibername und -Versionsnummer
+0x803786f 48 23 LEDs aufleuchten lassen
+0x80378a0 196 97 Identifizieren Sie den physischen Netzwerkport, indem Sie die betreffende LED aufleuchten lassen.
+0x8037965 36 17 NIC-Konfiguration
+0x803798a 124 61 Klicken Sie, um den Netzwerkgeräteanschluss zu konfigurieren.
+0x8037a07 36 17 NIC-Konfiguration
+0x8037a2c 184 91 Konfigurieren Sie das Boot-Protokoll, Wake-on-LAN, die Verbindungsgeschwindigkeit und VLAN.
+0x8037ae5 44 21 Legacy-Startprotokoll
+0x8037b12 122 60 Wählen Sie ein anderes Netzwerk-Boot-Protokoll als UEFI aus.
+0x8037b96 26 12 iSCSI primär
+0x8037bb1 30 14 iSCSI sekundär
+0x8037c8b 54 26 Verbindungsgeschwindigkeit
+0x8037cc2 180 89 Gibt die Anschlussgeschwindigkeit an, die für das gewählte Boot-Protokoll verwendet wird.
+0x8037d77 50 24 Automatisch ausgehandelt
+0x8037daa 42 20 10 Mbit/s Halbduplex
+0x8037dd5 42 20 10 Mbit/s Vollduplex
+0x8037e00 44 21 100 Mbit/s Halbduplex
+0x8037e2d 44 21 100 Mbit/s Vollduplex
+0x8037e5a 46 22 1000 Mbit/s Halbduplex
+0x8037e89 46 22 1000 Mbit/s Vollduplex
+0x8037eb8 42 20 10 Gbit/s Halbduplex
+0x8037ee3 42 20 10 Gbit/s Vollduplex
+0x8037f38 42 20 Wake On LAN-Optionen
+0x8037f63 540 269 Ermöglicht das Einschalten des Systems über LAN. Wenn Sie Wake-On-LAN im Betriebssystem konfigurieren, wird dadurch nicht der Wert diese Einstellung geändert. Vielmehr wird das Verhalten von Wake-On-LAN in vom Betriebssystem kontrollierten Energiezuständen übersteuert.
+0x8038195 24 11 Deaktiviert
+0x80381ae 34 16 nicht zutreffend
+0x80381d1 36 17 Verbindungsstatus
+0x80381f6 36 17 Verbindungsstatus
+0x803821b 40 19 Nicht angeschlossen
+0x8038244 28 13 Angeschlossen
+0x8038261 60 29 Konfiguration auf Geräteebene
+0x803829e 124 61 Globale Parameter auf Geräteebene anzeigen und konfigurieren.
+0x803831b 60 29 Konfiguration auf Geräteebene
+0x8038358 44 21 Virtualisierungsmodus
+0x8038385 138 68 Gibt die Einstellung des Virtualisierungsmodus auf dem Controller an
+0x803842c 72 35 Angezeigte virtuelle PCI-Funktionen
+0x8038475 272 135 Die Anzahl der virtuellen PCI-Funktionen (PCI Virtual Functions, VFs), die auf diesem Port nicht im NPAR-Modus angezeigt werden sollen.
+0x8038586 42 20 SR-IOV-Unterstützung
+0x80385b1 26 12 RDMA-Support
+0x80385f5 94 46 Anzahl der unterstützten virtuellen Funktionen
+0x8038654 128 63 Anzahl der auf diesem Port unterstützten virtuellen Funktionen.
+0x80386d5 38 18 VF-Zuweisungsbasis
+0x80386fc 134 66 Definiert die Domäne, in der virtuelle Funktionen zugewiesen sind.
+0x803879b 48 23 VF-Zuweisungsvielfaches
+0x80387cc 166 82 Virtuelle Funktionen müssen einem Port als Vielfaches dieser Zahl zugewiesen sein.
+0x8038873 84 41 Status für die Verbindungsgeschwindigkeit
+0x80388c8 84 41 Status für die Verbindungsgeschwindigkeit
+0x803891d 58 28 Firmware-Image-Eigenschaften
+0x8038958 58 28 Firmware-Image-Eigenschaften
+0x8038993 60 29 Version des Erweiterungs-ROMs
+0x80389e3 74 36 Versionsnummer des Erweiterungs-ROMs
+0x8038a2e 50 24 Eindeutige NVM/EEPROM-ID
+0x8038a74 68 33 Eindeutiger NVM/EEPROM-Bezeichner
+0x8038aeb 34 16 Firmware-Version
+0x8038b21 98 48 Versionsdaten der installierten Geräte-Firmware.
+0x8038b84 24 11 EFI-Version
+0x8038bb8 118 58 EFI-Treiberversionsangabe der installierten Geräteeinheit.
+0x8038c2f 38 18 FCoE-Konfiguration
+0x8038c56 86 42 Konfigurieren Sie die FCoE-Boot-Parameter.
+0x8038cad 38 18 FCoE-Konfiguration
+0x8038cfb 32 15 FIP-MAC-Adresse
+0x8038d1c 132 65 FCoE-Initialisierungsprotokoll(FIP)-MAC-Adresse für dieses Gerät.
+0x8038da4 42 20 World Wide Node Name
+0x8038dcf 94 46 World Wide Node Name (WWNN) für das Boot-Ziel.
+0x8038e31 56 27 WWPN (World Wide Port Name)
+0x8038e6a 94 46 World Wide Port Name (WWPN) für das Boot-Ziel.
+0x8038ecc 52 25 Virtuelle FIP-MAC-Adresse
+0x8038f01 104 51 Programmseitig zuweisbare FIP-MAC-Adresse für FCoE.
+0x8038f6a 78 38 Virtueller WWNN (World Wide Node Name)
+0x8038fb9 158 78 Programmseitig zuweisbarer Fibre-Channel-WWNN (World-Wide Node Name) für FCoE.
+0x8039058 78 38 Virtueller WWPN (World Wide Port Name)
+0x80390a7 158 78 Programmseitig zuweisbarer Fibre-Channel-WWPN (World-Wide Port Name) für FCoE.
+0x8039146 64 31 Parameter für zweites FCoE-Ziel
+0x8039187 64 31 Parameter für drittes FCoE-Ziel
+0x80391c8 64 31 Parameter für drittes FCoE-Ziel
+0x8039209 64 31 Parameter für viertes FCoE-Ziel
+0x803924a 64 31 Parameter für viertes FCoE-Ziel
+0x803928b 64 31 Parameter für zweites FCoE-Ziel
+0x80392cc 64 31 Parameter für drittes FCoE-Ziel
+0x803930d 64 31 Parameter für viertes FCoE-Ziel
+0x8039426 88 43 World Wide Port Name (WWPN) des Boot-Ziels.
+0x80394d1 238 118 Die für das FCoE-Ziel zu verwendende logische Gerätenummer (LUN). Der LUN-Wert muss im Dezimalformat angegeben werden.
+0x80395f9 30 14 Virtual-LAN-ID
+0x8039618 88 43 Geben Sie die VLAN-ID für das FCoE-Ziel an.
+0x8039671 30 14 Virtual-LAN-ID
+0x8039690 30 14 Virtual-LAN-ID
+0x80396af 30 14 Virtual-LAN-ID
+0x80396ce 34 16 Startreihenfolge
+0x80396f1 180 89 Geben Sie die Position dieses Port in der FCoE-Bootreihenfolge 1-4 oder 0=deaktiviert an.
+0x80397a6 34 16 Startreihenfolge
+0x80397c9 34 16 Startreihenfolge
+0x80397ec 34 16 Startreihenfolge
+0x803980f 34 16 Startreihenfolge
+0x8039832 34 16 Startreihenfolge
+0x8039855 34 16 Startreihenfolge
+0x8039878 40 19 iSCSI-Konfiguration
+0x80398a1 186 92 Konfigurieren Sie die allgemeinen, Initiator- und Zielparameter für die iSCSI-Boot-Funktion.
+0x803995c 40 19 iSCSI-Konfiguration
+0x8039985 54 26 Allgemeine iSCSI-Parameter
+0x80399bc 102 50 Konfigurieren Sie die allgemeinen iSCSI-Parameter.
+0x8039a23 54 26 Allgemeine iSCSI-Parameter
+0x8039a5a 60 29 Parameter für iSCSI-Initiator
+0x8039a97 156 77 Konfiguration der iSCSI-Initiator-Parameter (z. B. IP-Adresse, Subnetzmaske).
+0x8039b34 60 29 Parameter für iSCSI-Initiator
+0x8039b71 78 38 iSCSI-Parameter des ersten Zielsystems
+0x8039bc0 168 83 Verbindung aktivieren und Kommunikationsparameter für das iSCSI-Ziel konfigurieren.
+0x8039c69 78 38 iSCSI-Parameter des ersten Zielsystems
+0x8039cb8 54 26 TCP/IP-Parameter über DHCP
+0x8039cef 238 118 Diese Option ist IPv4-spezifisch Steuert die Quelle für die IP-Adresse des Initiators, DHCP- oder statische Zuweisung.
+0x8039dde 52 25 iSCSI-Parameter über DHCP
+0x8039e13 142 70 Aktiviert den Abruf von Parametern für ein iSCSI-Zielsystem über DHCP.
+0x8039ea2 24 11 Deaktiviert
+0x8039ed0 46 22 CHAP-Authentifizierung
+0x8039eff 232 115 Die Fähigkeit des Initiators aktivieren, bei der Verbindung zum iSCSI-Ziel die CHAP-Authentifizierung zu verwenden.
+0x8039fe8 72 35 Gegenseitige CHAP-Authentifizierung
+0x803a031 358 178 Um beidseitige CHAP-Authentifizierung zu nutzen, geben Sie in den Initiator-Einstellungen einen Initiator-Schlüssel ein und konfigurieren Sie diesen Schlüssel auf dem Zielsystem.
+0x803a198 24 11 Deaktiviert
+0x803a1c6 22 10 IP-Version
+0x803a1dd 274 136 Steuert, ob IPv4- oder IPv6-Netzwerkadressierung für iSCSI-Initiator und -Zielsysteme verwendet wird. Aktuell wird nur IPv4 unterstützt.
+0x803a2fb 22 10 IP-Adresse
+0x803a312 90 44 Gibt die IP-Adresse des iSCSI-Initiators an.
+0x803a36d 26 12 Subnetzmaske
+0x803a388 104 51 Gibt die IPv4-Subnetzmaske des iSCSI-Initiators an.
+0x803a3f1 32 15 Standardgateway
+0x803a412 100 49 Gibt das Standardgateway des iSCSI-Initiators an.
+0x803a477 22 10 iSCSI-Name
+0x803a48e 120 59 Gibt den „iSCSI Qualified Name“ (IQN) für den Initiator an.
+0x803a518 152 75 CHAP-ID (Challenge-Handshake Authentication Protocol) des iSCSI-Initiators.
+0x803a5b1 30 14 CHAP-Schlüssel
+0x803a5d0 194 96 CHAP-Schlüssel (Challenge-Handshake Authentication Protocol) für den iSCSI-Initiator (Passwort).
+0x803a693 22 10 IP-Adresse
+0x803a6aa 92 45 Gibt die IP-Adresse des iSCSI-Zielsystems an.
+0x803a707 28 13 TCP-Anschluss
+0x803a724 100 49 Gibt die TCP-Portnummer des iSCSI-Zielsystems an.
+0x803a79c 190 94 Gibt die LUN (Logical Unit Number) für das Zielsystem beim Booten des iSCSI-Datenspeichers an.
+0x803a85b 22 10 iSCSI-Name
+0x803a872 168 83 Gibt den iSCSI Qualified Name (IQN) für das Zielsystem des iSCSI-Datenspeichers an.
+0x803a91b 30 14 CHAP-Schlüssel
+0x803a93a 292 145 Gibt den CHAP-Schlüssel für das Zielsystem des iSCSI-Datenspeichers (Challenge-Handshake-Authentication-Protocol-Passwort für das Zielsystem) an.
+0x803aa5f 50 24 iSCSI-Startunterstützung
+0x803aabb 48 23 FCoE-Startunterstützung
+0x803ab15 46 22 PXE-Startunterstützung
+0x803ab6d 68 33 NIC-Partitionierungsunterstützung
+0x803abdb 56 27 iSCSI-Offload-Unterstützung
+0x803ac3d 30 14 FlexAddressing
+0x803ac85 24 11 TOE-Support
+0x803acc7 90 44 Unterstützung für Version mit zwei iSCSI-IPs
+0x803ad4b 32 15 Nicht verfügbar
+0x803ad6c 20 9 Verfügbar
+0x803adaa 78 38 Offizieller Produktname dieses Geräts.
+0x803adf9 22 10 Gerätename
+0x803ae10 56 27 Gerätename: Intel Fortville
+0x803ae4c 54 26 Der Bildparameter war NULL
+0x803ae83 96 47 Der angegebene Bildindex wird nicht unterstützt
+0x803aee4 70 34 Ungültige NVM-Option 'ROM Pointer'
+0x803af2b 40 19 Ungültige Bildgröße
+0x803af54 80 39 Fehler bei Validierung des Eingabebilds
+0x803afa5 90 44 Bild wird für dieses Gerät nicht unterstützt
+0x803b000 68 33 EEPROM-Größe stimmt nicht überein
+0x803b045 66 32 Speicherzuordnung fehlgeschlagen
+0x803b088 68 33 EFI Decompress Protocol not found
+0x803b0cd 90 44 Verarbeitung des Eingabebilds fehlgeschlagen
+0x803b128 102 50 Fehler bei Erhaltung der Gerätekonfigurationsdaten
+0x803b18f 74 36 EEPROM-Schreibvorgang fehlgeschlagen
+0x803b1da 68 33 EEPROM-Lesevorgang fehlgeschlagen
+0x803b21f 72 35 CIVD in Eingangsbild nicht gefunden
+0x803b268 52 25 VPD-Update fehlgeschlagen
+0x803b29d 68 33 NVM-Schreibvorgang fehlgeschlagen
+0x803b2e2 62 30 NVM-Lesevorgang fehlgeschlagen
+0x803b321 64 31 NVM-Löschvorgang fehlgeschlagen
+0x803b362 74 36 NVM-Datenverarbeitung fehlgeschlagen
+0x803b3ad 72 35 Fehler beim Zurücksetzen des Geräts
+0x803b3f6 30 14 Virtual-LAN-ID
+0x803b415 358 178 Gibt die ID (Tag) an, die für den PXE-VLAN-Modus verwendet werden soll. Die VLAN-ID muss zwischen 0 und 4094 liegen. PXE-VLAN ist deaktiviert, wenn der Wert mit 0 festgelegt ist.
+0x803b57c 52 25 x-UEFI Termination String
+0x803b5e6 34 16 español (España)
+0x803b60c 76 37 Características de memoria compartida
+0x803b659 276 137 Deshabilite el uso de regiones de memoria reservada para permitir la asignación directa de un dispositivo a máquinas virtuales invitadas.
+0x803b76e 68 33 Conexión de red de Intel PRO/1000
+0x803b7b3 118 58 Configurar los parámetros del dispositivo Ethernet Gigabit
+0x803b82a 74 36 Página principal de la configuración
+0x803b875 28 13 Dirección MAC
+0x803b892 60 29 %02x:%02x:%02x:%02x:%02x:%02x
+0x803b8cf 122 60 Dirección MAC predeterminada de fábrica del puerto Ethernet.
+0x803b94a 44 21 Dirección MAC virtual
+0x803b977 116 57 Dirección MAC asignable programáticamente para el puerto.
+0x803b9ec 28 13 Dirección PCI
+0x803ba1c 62 30 Ubicación del dispositivo PCI.
+0x803ba5b 36 17 PBA del adaptador
+0x803ba87 228 113 El número de placa de cicuito impreso (PBA - Printed Board Assembly) es un código único usado para identificarla.
+0x803bb6c 26 12 Tipo de chip
+0x803bb87 48 23 Controlador desconocido
+0x803bbb8 80 39 Número de pieza del controlador de red.
+0x803bc09 44 21 ID de dispositivo PCI
+0x803bc36 40 19 %04x/%04x/%04x/%04x
+0x803bc6a 84 41 ID de dispositivo PCI de este dispositivo
+0x803bcbf 34 16 Controlador UEFI
+0x803bce9 96 47 Nombre y número de versión del controlador UEFI
+0x803bd4a 34 16 LED parpadeantes
+0x803bd6d 150 74 Identificar el puerto de red físico mediante el parpadeo del LED asociado.
+0x803be04 42 20 Configuración de NIC
+0x803be2f 120 59 Haga clic para configurar el puerto del dispositivo de red.
+0x803bea8 42 20 Configuración de NIC
+0x803bed3 150 74 Configurar protocolo de arranque, Wake on LAN, velocidad de enlace y VLAN.
+0x803bf6a 56 27 Protocolo de inicio antiguo
+0x803bfa3 120 59 Seleccione un protocolo de arranque de red que no sea UEFI.
+0x803c025 30 14 iSCSI Primario
+0x803c044 34 16 iSCSI Secundario
+0x803c126 42 20 Velocidad del enlace
+0x803c151 176 87 Especifica la velocidad de puerto utilizada para el protocolo de arranque seleccionado.
+0x803c202 52 25 Negociado automáticamente
+0x803c237 28 13 10 Mbps medio
+0x803c254 34 16 10 Mbps completo
+0x803c277 30 14 100 Mbps medio
+0x803c296 36 17 100 Mbps completo
+0x803c2bb 32 15 1000 Mbps medio
+0x803c2dc 38 18 1000 Mbps completo
+0x803c303 28 13 10 Gbps medio
+0x803c320 34 16 10 Gbps completo
+0x803c365 24 11 Wake On LAN
+0x803c37e 554 276 Habilita el encendido del sistema a través de la LAN. Tenga en cuenta que configurar Wake on LAN en el sistema operativo no cambia el valor de este ajuste, pero sí que altera el comportamiento de Wake on LAN en los estados de alimentación controlados por el sistema operativo.
+0x803c5a9 22 10 Habilitado
+0x803c5c0 28 13 Deshabilitado
+0x803c5e6 36 17 Estado del enlace
+0x803c60b 36 17 Estado del enlace
+0x803c630 26 12 Desconectado
+0x803c660 76 37 Configuración de nivel de dispositivo
+0x803c6ad 126 62 Vea y configure los parámetros de nivel de dispositivo global.
+0x803c72c 76 37 Configuración de nivel de dispositivo
+0x803c779 46 22 Modo de virtualización
+0x803c7a8 142 70 Especifica la configuración del modo de virtualización del controlador
+0x803c857 76 37 Funciones virtuales de PCI anunciadas
+0x803c8a4 214 106 El número de funciones virtuales (VF) de PCI que se va a anunciar en este puerto en modo distinto de NPAR.
+0x803c97b 52 25 Compatibilidad con SR-IOV
+0x803c9b0 48 23 Compatibilidad con RDMA
+0x803ca0a 84 41 Número de funciones virtuales compatibles
+0x803ca5f 116 57 Número de funciones virtuales compatibles en este puerto.
+0x803cad4 50 24 Base de asignación de VF
+0x803cb07 136 67 Define el dominio en el que se asignan las funciones virtuales (VF)
+0x803cb90 24 11 Dispositivo
+0x803cbb8 52 25 Asignación múltiple de VF
+0x803cbed 162 80 Las funciones virtuales deben asignarse a un puerto en múltiplos de este número.
+0x803cc90 62 30 Estado de velocidad del enlace
+0x803cccf 62 30 Estado de velocidad del enlace
+0x803cd0e 74 36 Propiedades de la imagen de firmware
+0x803cd59 74 36 Propiedades de la imagen de firmware
+0x803cda4 56 27 Versión de la ROM de opción
+0x803cdf0 76 37 Número de versión de la ROM de opción
+0x803ce3d 54 26 ID exclusivo de NVM/EEPROM
+0x803ce87 76 37 Identificador exclusivo de NVM/EEPROM
+0x803cf06 68 33 Versión de firmware de la familia
+0x803cf5e 158 78 Información de la versión de la familia de firmware del dispositivo instalado.
+0x803cffd 30 14 Versión de EFI
+0x803d037 146 72 Información de la versión del controlador EFI del dispositivo instalado.
+0x803d0ca 44 21 Configuración de FCoE
+0x803d0f7 78 38 Configure los parámetros de FCoE Boot.
+0x803d146 44 21 Configuración de FCoE
+0x803d1a0 42 20 Dirección MAC de FIP
+0x803d1cb 158 78 Dirección MAC de protocolo de inicialización FCoE (FIP) para este dispositivo.
+0x803d26d 46 22 Nombre de nodo mundial
+0x803d29c 100 49 Nombre de nodo mundial para el destino de inicio.
+0x803d304 50 24 Nombre de puerto mundial
+0x803d337 104 51 Nombre de puerto mundial para el destino de inicio.
+0x803d3a3 58 28 Dirección MAC de FIP virtual
+0x803d3de 114 56 Dirección FIP-MAC asignable programáticamente para FCoE.
+0x803d451 62 30 Nombre de nodo mundial virtual
+0x803d490 194 96 Identificador de nombre de nodo mundial en canal de fibra asignable programáticamente para FCoE.
+0x803d553 66 32 Nombre de puerto mundial virtual
+0x803d596 198 98 Identificador de nombre de puerto mundial en canal de fibra asignable programáticamente para FCoE.
+0x803d65d 76 37 Parámetros de segundo destino de FCoE
+0x803d6aa 74 36 Parámetros de tercer destino de FCoE
+0x803d6f5 74 36 Parámetros de tercer destino de FCoE
+0x803d740 74 36 Parámetros de cuarto destino de FCoE
+0x803d78b 74 36 Parámetros de cuarto destino de FCoE
+0x803d7d6 76 37 Parámetros de segundo destino de FCoE
+0x803d823 74 36 Parámetros de tercer destino de FCoE
+0x803d86e 74 36 Parámetros de cuarto destino de FCoE
+0x803d99c 72 35 Destino de nombre de puerto mundial
+0x803d9e5 96 47 Nombre de puerto mundial del destino de inicio.
+0x803da46 72 35 Destino de nombre de puerto mundial
+0x803da8f 72 35 Destino de nombre de puerto mundial
+0x803dad8 72 35 Destino de nombre de puerto mundial
+0x803db21 28 13 LUN de inicio
+0x803db3e 256 127 El Número de unidad lógica que debe utilizarse en el destino de FCoE. El valor de la LUN debe representarse en formato decimal.
+0x803dc3f 28 13 LUN de inicio
+0x803dc5c 28 13 LUN de inicio
+0x803dc79 28 13 LUN de inicio
+0x803dc96 36 17 ID de LAN virtual
+0x803dcbb 102 50 Especifique el ID de VLAN para el destino de FCoE.
+0x803dd22 36 17 ID de LAN virtual
+0x803dd47 36 17 ID de LAN virtual
+0x803dd6c 36 17 ID de LAN virtual
+0x803dd91 32 15 Orden de inicio
+0x803ddb2 182 90 Especifique el lugar de este puerto en el orden de arranque de FCoE 1-4 o 0=deshabilitado.
+0x803de69 32 15 Orden de inicio
+0x803de8a 32 15 Orden de inicio
+0x803deab 32 15 Orden de inicio
+0x803decc 32 15 Orden de inicio
+0x803deed 32 15 Orden de inicio
+0x803df0e 32 15 Orden de inicio
+0x803df2f 46 22 Configuración de iSCSI
+0x803df5e 172 85 Configurar parámetros generales, de iniciador y de destino para el arranque de iSCSI.
+0x803e00b 46 22 Configuración de iSCSI
+0x803e03a 60 29 Parámetros generales de iSCSI
+0x803e077 92 45 Configurar los parámetros generales de iSCSI.
+0x803e0d4 60 29 Parámetros generales de iSCSI
+0x803e111 66 32 Parámetros de iniciador de iSCSI
+0x803e154 206 102 Configuración de los parámetros del iniciador de iSCSI (por ejemplo, Dirección IP, Máscara de subred).
+0x803e223 66 32 Parámetros de iniciador de iSCSI
+0x803e266 76 37 Parámetros de primer destino de iSCSI
+0x803e2b3 172 85 Habilite la conexión y configure parámetros de comunicación para el destino de iSCSI.
+0x803e360 76 37 Parámetros de primer destino de iSCSI
+0x803e3ad 70 34 Parámetros de TCP/IP mediante DHCP
+0x803e3f4 232 115 Esta opción es específica de IPv4. Controla el origen de la dirección IP, DHCP o asignación estática del iniciador.
+0x803e4dd 68 33 Parámetros de iSCSI mediante DHCP
+0x803e522 140 69 Habilita la adquisición de parámetros de destino de iSCSI desde DHCP.
+0x803e5af 28 13 Deshabilitado
+0x803e5cc 22 10 Habilitado
+0x803e5e3 38 18 Autenticación CHAP
+0x803e60a 220 109 Habilite la capacidad del iniciador para utilizar la autenticación de CHAP al conectarse al destino de iSCSI.
+0x803e6e7 50 24 Autenticación mutua CHAP
+0x803e71a 314 156 Para utilizar la autenticación CHAP mutua, especifique un secreto del iniciador en la página Parámetros del iniciador y configure ese secreto en el destino.
+0x803e855 28 13 Deshabilitado
+0x803e872 22 10 Habilitado
+0x803e889 28 13 Versión de IP
+0x803e8a6 280 139 Controla si se utilizará el direccionamiento de red IPv4 o IPv6 para el iniciador y los destinos de iSCSI. Actualmente solo se acepta IPv4.
+0x803e9ca 26 12 Dirección IP
+0x803e9e5 102 50 Especifica la dirección IP del iniciador de iSCSI.
+0x803ea4c 36 17 Máscara de subred
+0x803ea71 122 60 Especifica la máscara de subred IPv4 del iniciador de iSCSI.
+0x803eaec 64 31 Puerta de enlace predeterminada
+0x803eb2d 124 61 Especifica la pasarela predeterminada del iniciador de iSCSI.
+0x803ebaa 32 15 Nombre de iSCSI
+0x803ebcb 120 59 Especifica el nombre completo de iSCSI (IQN) del iniciador.
+0x803ec5b 166 82 ID del protocolo de autenticación por desafío mutuo (CHAP) del iniciador de iSCSI.
+0x803ed02 38 18 Contraseña de CHAP
+0x803ed29 202 100 Secreto (contraseña) del protocolo de autenticación por desafío mutuo (CHAP) del iniciador de iSCSI.
+0x803edf4 26 12 Dirección IP
+0x803ee0f 98 48 Especifica la dirección IP del destino de iSCSI.
+0x803ee72 22 10 Puerto TCP
+0x803ee89 114 56 Especifica el número de puerto TCP del destino de iSCSI.
+0x803eefc 28 13 LUN de inicio
+0x803ef19 184 91 Especifica el número de unidad lógica (LUN) de arranque de destino de almacenamiento iSCSI.
+0x803efd2 32 15 Nombre de iSCSI
+0x803eff3 164 81 Especifica el nombre completo de iSCSI (IQN) del destino de almacenamiento iSCSI.
+0x803f098 38 18 Contraseña de CHAP
+0x803f0bf 288 143 Especifica el secreto (contraseña CHAP de destino) del protocolo de autenticación por desafío mutuo (CHAP) del destino de almacenamiento iSCSI.
+0x803f1e0 44 21 Soporte de iSCSI Boot
+0x803f236 42 20 Soporte de FCoE Boot
+0x803f28a 44 21 Soporte de inicio PXE
+0x803f2e0 54 26 Soporte de particiones NIC
+0x803f340 76 37 Compatibilidad con descarga de iSCSI 
+0x803f3b6 30 14 FlexAddressing
+0x803f3fe 36 17 Asistencia de TOE
+0x803f44c 96 47 Compatibilidad con versión de IP dual de iSCSI 
+0x803f4d6 28 13 No disponible
+0x803f4f3 22 10 Disponible
+0x803f533 96 47 Nombre de producto oficial de este dispositivo.
+0x803f594 46 22 Nombre del dispositivo
+0x803f5c3 76 37 Nombre de dispositivo Intel Fortville
+0x803f613 56 27 El parámetro Image era NULL
+0x803f64c 100 49 El índice de imagen especificado no es compatible
+0x803f6b1 82 40 Puntero de ROM opcional de NVM no válido
+0x803f704 54 26 Tamaño de imagen no válido
+0x803f73b 76 37 Error al validar la imagen de entrada
+0x803f788 96 47 La imagen no es compatible con este dispositivo
+0x803f7e9 64 31 El tamaño de EEPROM no coincide
+0x803f82a 62 30 Fallo de asignación de memoria
+0x803f869 68 33 EFI Decompress Protocol not found
+0x803f8ae 78 38 Fallo al procesar la imagen de entrada
+0x803f8fd 124 61 Error al preservar los datos de configuración del dispositivo
+0x803f97a 58 28 Fallo de escritura de EEPROM
+0x803f9b5 54 26 Fallo de lectura de EEPROM
+0x803f9ec 80 39 CIVD no encontrado en imagen de entrada
+0x803fa3d 60 29 Fallo de actualización de VPD
+0x803fa7a 52 25 Fallo de escritura de NVM
+0x803faaf 48 23 Fallo de lectura de NVM
+0x803fae0 48 23 Fallo de borrado de NVM
+0x803fb11 66 32 Fallo de proceso de datos de NVM
+0x803fb54 82 40 Fallo de restablecimiento de dispositivo
+0x803fba7 36 17 ID de LAN virtual
+0x803fbcc 352 175 Especifica el ID (etiqueta) que debe utilizarse para el modo de VLAN PXE. El ID de VLAN debe tener un valor de 0 a 4094. VLAN PXE se deshabilita si el valor se establece en 0.
+0x803fd2d 52 25 x-UEFI Termination String
+0x803fd97 36 17 français (France)
+0x803fdbf 74 36 Fonctionnalités de mémoire partagées
+0x803fe0a 290 144 Désactivez l'utilisation des régions de mémoire réservées pour permettre l'affectation directe du périphérique aux machines virtuelles invitées.
+0x803ff2d 64 31 Connexion réseau Intel PRO/1000
+0x803ff6e 118 58 Configurer les paramètres du périphérique Ethernet Gigabit
+0x803ffe5 66 32 Page de configuration principale
+0x8040028 24 11 Adresse MAC
+0x8040041 60 29 %02x:%02x:%02x:%02x:%02x:%02x
+0x804007e 108 53 Adresse MAC par défaut du fabricant du port Ethernet.
+0x80400eb 44 21 Adresse MAC virtuelle
+0x8040118 132 65 Adresse MAC pour le port pouvant être affectée par programmation.
+0x804019d 24 11 Adresse PCI
+0x80401c9 66 32 Emplacement du périphérique PCI.
+0x8040228 240 119 Un numéro PBA (Printed Board Assembly - Circuit imprimé) est un code unique utilisé pour identifier un circuit imprimé.
+0x8040319 26 12 Type de puce
+0x8040334 38 18 Contrôleur inconnu
+0x804035b 76 37 Numéro de pièce du contrôleur réseau.
+0x80403a8 46 22 ID de périphérique PCI
+0x80403d7 40 19 %04x/%04x/%04x/%04x
+0x804040b 78 38 ID de périphérique PCI du périphérique
+0x804045a 24 11 Pilote UEFI
+0x804047a 80 39 Nom du pilote UEFI et numéro de version
+0x80404cb 48 23 Faire clignoter les DEL
+0x80404fc 180 89 Identifier le port réseau matériel en faisant clignoter le témoin lumineux correspondant.
+0x80405b1 90 44 Configuration de la carte d'interface réseau
+0x804060c 112 55 Cliquez pour configurer le port du périphérique réseau.
+0x804067d 90 44 Configuration de la carte d'interface réseau
+0x80406d8 166 82 Configurer le protocole d'amorçage, Wake on LAN, la vitesse de liaison et le VLAN.
+0x804077f 60 29 Protocole d'amorçage existant
+0x80407bc 108 53 Sélectionner un protocole d'amorçage réseau non UEFI.
+0x8040832 30 14 Primaire iSCSI
+0x8040851 34 16 Secondaire iSCSI
+0x804092f 38 18 Vitesse de liaison
+0x8040956 158 78 Spécifie la vitesse de port utilisée pour le protocole d'amorçage sélectionné.
+0x80409f5 48 23 Négocié automatiquement
+0x8040a26 30 14 10 Mbit/s Half
+0x8040a45 30 14 10 Mbit/s Full
+0x8040a64 32 15 100 Mbit/s Half
+0x8040a85 32 15 100 Mbit/s Full
+0x8040aa6 40 19 1 000 Mbit/s - Semi
+0x8040acf 48 23 1 000 Mbit/s - Intégral
+0x8040b00 34 16 10 Gbit/s - Semi
+0x8040b23 42 20 10 Gbit/s - Intégral
+0x8040b78 24 11 Wake On LAN
+0x8040b91 550 274 Active l’alimentation du système via un réseau LAN. Remarque : la configuration de la fonctionnalité Wake on LAN sur le système d’exploitation ne change pas la valeur de ce paramètre, mais change le comportement Wake on LAN dans les états d’alimentation contrôlés par le SE.
+0x8040db8 20 9 Activé(e)
+0x8040dcd 26 12 Désactivé(e)
+0x8040df7 36 17 tat de la liaison
+0x8040e1e 36 17 tat de la liaison
+0x8040e43 22 10 Déconnecté
+0x8040e6d 74 36 Configuration au niveau périphérique
+0x8040eb8 140 69 Afficher et configurer les paramètres globaux au niveau périphérique.
+0x8040f45 74 36 Configuration au niveau périphérique
+0x8040f90 46 22 Mode de virtualisation
+0x8040fbf 124 61 Spécifie le paramètre de mode de virtualisation du contrôleur
+0x8041058 68 33 Fonctions PCI virtuelles publiées
+0x804109d 156 77 Le nombre de fonctions PCI virtuelles à publier sur ce port en mode non NPAR.
+0x804113a 46 22 Prise en charge SR-IOV
+0x8041169 42 20 Prise en charge RDMA
+0x80411bd 96 47 Nombre de fonctions virtuelles prises en charge
+0x804121e 122 60 Nombre de fonctions virtuelles prises en charge sur ce port.
+0x8041299 52 25 Affectation des FV - Base
+0x80412ce 154 76 Définit le domaine dans lequel les fonctions virtuelles (FV) sont affectées.
+0x8041369 26 12 Périphérique
+0x804138f 60 29 Affectation des FV - Multiple
+0x80413cc 168 83 Les fonctions virtuelles doivent être allouées à un port en multiples de ce nombre.
+0x8041477 58 28 tat de la vitesse de liaison
+0x80414b4 58 28 tat de la vitesse de liaison
+0x80414ef 80 39 Propriétés de l'image du microprogramme
+0x8041540 80 39 Propriétés de l'image du microprogramme
+0x8041591 48 23 Version ROM optionnelle
+0x80415d5 68 33 Numéro de version ROM optionnelle
+0x804161a 42 20 ID NVM/EEPROM unique
+0x8041658 60 29 Identifiant NVM/EEPROM unique
+0x80416c7 80 39 Version du microprogramme de la famille
+0x804172b 172 85 Informations sur la version de la famille de microprogramme de périphérique installé.
+0x80417d8 24 11 Version EFI
+0x804180c 128 63 Informations de version du pilote EFI du périphérique installé.
+0x804188d 38 18 Configuration FCoE
+0x80418b4 90 44 Configurez les paramètres de démarrage FCoE.
+0x804190f 38 18 Configuration FCoE
+0x804195d 32 15 Adresse MAC FIP
+0x804197e 148 73 Adresse MAC du protocole d'initialisation FCoE (FIP) de ce périphérique. 
+0x8041a16 54 26 Nom de nœud mondial (WWNN)
+0x8041a4d 64 31 Nom WWN de la cible d'amorçage.
+0x8041a91 32 15 Nom WWN du port
+0x8041ab2 80 39 Nom du port WWN de la cible d'amorçage.
+0x8041b06 52 25 Adresse MAC FIP virtuelle
+0x8041b3b 134 66 Adresse FIP-MAC pour FCoE pouvant être affectée par programmation.
+0x8041bc2 70 34 Nom virtuel du nœud mondial (WWNN)
+0x8041c09 198 98 Identifiant du nom de nœud mondial Fibre Channel pour FCoE pouvant être affecté par programmation.
+0x8041cd0 48 23 Nom virtuel WWN du port
+0x8041d01 198 98 Identifiant du nom de port mondial Fibre Channel pour FCoE pouvant être affecté par programmation.
+0x8041dc8 74 36 Paramètres de la deuxième cible FCoE
+0x8041e13 76 37 Paramètres de la troisième cible FCoE
+0x8041e60 76 37 Paramètres de la troisième cible FCoE
+0x8041ead 76 37 Paramètres de la quatrième cible FCoE
+0x8041efa 76 37 Paramètres de la quatrième cible FCoE
+0x8041f47 74 36 Paramètres de la deuxième cible FCoE
+0x8041f92 76 37 Paramètres de la troisième cible FCoE
+0x8041fdf 76 37 Paramètres de la quatrième cible FCoE
+0x8042111 72 35 Cible du nom de port mondial (WWPN)
+0x804215a 80 39 Nom du port WWN de la cible d'amorçage.
+0x80421ab 72 35 Cible du nom de port mondial (WWPN)
+0x80421f4 72 35 Cible du nom de port mondial (WWPN)
+0x804223d 72 35 Cible du nom de port mondial (WWPN)
+0x8042286 30 14 NUL d'amorçage
+0x80422a5 216 107 Le numéro d'unité logique (LUN) à utiliser sur la cible FCoE. La valeur du LUN doit être au format décimal.
+0x804237e 30 14 NUL d'amorçage
+0x804239d 30 14 NUL d'amorçage
+0x80423bc 30 14 NUL d'amorçage
+0x80423db 54 26 ID de réseau local virtuel
+0x8042412 82 40 Spécifier l'ID de VLAN de la cible FCoE.
+0x8042465 54 26 ID de réseau local virtuel
+0x804249c 54 26 ID de réseau local virtuel
+0x80424d3 54 26 ID de réseau local virtuel
+0x804250a 34 16 Ordre d'amorçage
+0x804252d 178 88 Spécifiez cet emplacement de port dans l’ordre de démarrage FCoE 1-4 ou sur 0=désactivé.
+0x80425e0 34 16 Ordre d'amorçage
+0x8042603 34 16 Ordre d'amorçage
+0x8042626 34 16 Ordre d'amorçage
+0x8042649 34 16 Ordre d'amorçage
+0x804266c 34 16 Ordre d'amorçage
+0x804268f 34 16 Ordre d'amorçage
+0x80426b2 40 19 Configuration iSCSI
+0x80426db 182 90 Configurer les paramètres généraux, de l'initiateur et de la cible pour un amorçage iSCSI.
+0x8042792 40 19 Configuration iSCSI
+0x80427bb 52 25 Paramètres généraux iSCSI
+0x80427f0 84 41 Configurer les paramètres iSCSI généraux.
+0x8042845 52 25 Paramètres généraux iSCSI
+0x804287a 60 29 Paramètres d'initiateur iSCSI
+0x80428b7 194 96 Configuration des paramètres iSCSI de l'initiateur (par ex., adresse IP, masque de sous-réseau).
+0x804297a 60 29 Paramètres d'initiateur iSCSI
+0x80429b7 76 37 Premiers paramètres de la cible iSCSI
+0x8042a04 172 85 Activer la connexion et configurer les paramètres de communication de la cible iSCSI.
+0x8042ab1 76 37 Premiers paramètres de la cible iSCSI
+0x8042afe 54 26 Paramètres TCP/IP via DHCP
+0x8042b35 238 118 Cette option est spécifique à IPv4. Contrôle la source de l'adresse IP de l'initiateur (affectation DHCP ou statique).
+0x8042c24 52 25 Paramètres iSCSI via DHCP
+0x8042c59 134 66 Permet l'acquisition des paramètres de la cible iSCSI depuis DHCP.
+0x8042ce0 26 12 Désactivé(e)
+0x8042cfb 20 9 Activé(e)
+0x8042d10 44 21 Authentification CHAP
+0x8042d3d 220 109 Activer la capacité de l'initiateur à utiliser l'authentification CHAP lors de la connexion à la cible iSCSI.
+0x8042e1a 62 30 Authentification mutuelle CHAP
+0x8042e59 318 158 Pour utiliser l'authentification CHAP mutuelle, spécifiez un secret d'initiateur dans la page Paramètres de l'initiateur et configurez ce secret sur la cible.
+0x8042f98 26 12 Désactivé(e)
+0x8042fb3 20 9 Activé(e)
+0x8042fc8 22 10 Version IP
+0x8042fdf 304 151 Contrôle si l'adressage réseau IPv4 ou IPv6 sera utilisé pour l'initiateur et les cibles iSCSI. Actuellement, seul l'adressage IPv4 est pris en charge.
+0x804311b 22 10 Adresse IP
+0x8043132 90 44 Spécifie l'adresse IP de l'initiateur iSCSI.
+0x804318d 44 21 Masque de sous-réseau
+0x80431ba 124 61 Spécifie le masque de sous-réseau IPv4 de l'initiateur iSCSI.
+0x8043237 44 21 Passerelle par défaut
+0x8043264 114 56 Spécifie la passerelle par défaut de l'initiateur iSCSI.
+0x80432ec 132 65 Spécifie le nom IQN (iSCSI Qualified Name) de l’initiateur iSCSI.
+0x8043382 154 76 ID CHAP (Challenge-Handshake Authentication Protocol) de l'initiateur iSCSI.
+0x804341d 24 11 Secret CHAP
+0x8043436 192 95 Secret (mot de passe) CHAP (Challenge-Handshake Authentication Protocol) de l'initiateur iSCSI.
+0x80434f7 22 10 Adresse IP
+0x804350e 82 40 Spécifie l'adresse IP de la cible iSCSI.
+0x8043574 100 49 Spécifie le numéro de port TCP de la cible iSCSI.
+0x80435d9 30 14 NUL d'amorçage
+0x80435f8 166 82 Spécifie le numéro d'unité logique (NUL) d'amorçage de la cible de stockage iSCSI.
+0x80436b4 148 73 Spécifie le nom IQN (iSCSI Qualified Name) de la cible de stockage iSCSI.
+0x8043749 24 11 Secret CHAP
+0x8043762 234 116 Spécifie le secret CHAP (mot de passe de Challenge-Handshake Authentication Protocol) de la cible de stockage iSCSI.
+0x804384d 72 35 Prise en charge de l'amorçage iSCSI
+0x80438bf 70 34 Prise en charge de l'amorçage FCoE
+0x804392f 68 33 Prise en charge de l'amorçage PXE
+0x804399d 70 34 Prise en charge des partitions NIC
+0x8043a0d 70 34 Prise en charge du délestage iSCSI
+0x8043a7d 30 14 FlexAddressing
+0x8043ac5 40 19 Prise en charge TOE
+0x8043b17 88 43 Prise en charge de la version iSCSI Dual IP
+0x8043b99 30 14 Non disponible
+0x8043bb8 22 10 Disponible
+0x8043bf8 88 43 Nom de produit officiel de ce périphérique.
+0x8043c51 40 19 Nom de périphérique
+0x8043c7a 72 35 Nom du périphérique Intel Fortville
+0x8043cc6 60 29 Le paramètre Image était NULL
+0x8043d03 100 49 L'index d'image spécifié n'est pas pris en charge
+0x8043d68 74 36 Pointeur ROM d'option NVM non valide
+0x8043db3 52 25 Taille d'image non valide
+0x8043de8 100 49 Erreur lors de la validation de l'image en entrée
+0x8043e4d 110 54 L'image n'est pas prise en charge pour ce périphérique
+0x8043ebc 58 28 Discordance de taille EEPROM
+0x8043ef9 64 31 chec de l'allocation de mémoire
+0x8043f3a 68 33 EFI Decompress Protocol not found
+0x8043f7f 88 43 Le traitement de l'image en entrée a échoué
+0x8043fd8 136 67 Erreur de préservation des données de configuration du périphérique
+0x8044063 46 22 chec d'écriture EEPROM
+0x8044094 46 22 chec de lecture EEPROM
+0x80440c3 80 39 CIVD introuvable dans l'image en entrée
+0x8044116 54 26 chec de la mise à jour VPD
+0x804414f 40 19 chec d'écriture NVM
+0x804417a 40 19 chec de lecture NVM
+0x80441a5 44 21 chec d'effacement NVM
+0x80441d2 78 38 Le traitement des données NVM a échoué
+0x8044223 82 40 chec de réinitialisation du périphérique
+0x8044276 54 26 ID de réseau local virtuel
+0x80442ad 332 165 Spécifie l'ID (balise) à utiliser en mode VLAN PXE. L'ID de VLAN doit être compris entre 0 et 4094. Le VLAN PXE est désactivé lorsque cette valeur est définie sur 0.
+0x80443fa 52 25 x-UEFI Termination String
+0x8044594 60 29 %02x:%02x:%02x:%02x:%02x:%02x
+0x8044796 40 19 %04x/%04x/%04x/%04x
+0x8044bf1 24 11 Wake On LAN
+0x804534a 44 21 World Wide Node Name。
+0x804537a 56 27 World Wide Port Name (WWPN)
+0x80453c7 44 21 World Wide Port Name。
+0x8045527 42 20 World Wide Port Name
+0x804583f 44 21 World Wide Port Name。
+0x8046207 138 68 iSCSI イニシエーター Challenge-Handshake Authentication Protocol (CHAP) ID。
+0x80466e8 30 14 FlexAddressing
+0x8046987 20 19 0S_f0k01YWeW0~0W0_0
+0x804699d 68 33 EFI Decompress Protocol not found
+0x80469f3 16 15 tk01YWeW0~0W0_0
+0x8046c5d 52 25 x-UEFI Termination String
+0x8046d8d 60 29 %02x:%02x:%02x:%02x:%02x:%02x
+0x8046efb 40 19 %04x/%04x/%04x/%04x
+0x8046fa3 14 12 v\ac:yopƋ+Rir
+0x80483d3 30 14 FlexAddressing
+0x804855c 36 17 NVM Option ROM 指针
+0x80485ea 68 33 EFI Decompress Protocol not found
+0x80487c6 52 25 x-UEFI Termination String
+0x8048831 48 23 English (United States)
+0x804886b 24 11 VndrFormSet
+0x8048887 30 14 VndrConfigPage
+0x80488bd 282 140 VirtMacAddr[ProgWrite:true][RegEx:^(\1330-9a-fA-F\135\1330|2|4|6|8|a|c|e|A|C|E\135\072)(\1330-9a-fA-F\135{2}\072){4}(\1330-9a-fA-F\135{2})$]
+0x80489db 36 17 BusDeviceFunction
+0x8048a06 198 98 INTEL_AdapterPBA[GroupName:DeviceLevelConfig][GroupDisplayName:\042Device Level Configuration\042]
+0x8048aea 24 11 PCIDeviceID
+0x8048b2b 26 12 NICConfigRef
+0x8048b61 32 15 LegacyBootProto
+0x8048b8e 26 12 iSCSIPrimary
+0x8048ba9 30 14 iSCSISecondary
+0x8048c08 22 10 10MbpsHalf
+0x8048c1f 22 10 10MbpsFull
+0x8048c36 24 11 100MbpsHalf
+0x8048c4f 24 11 100MbpsFull
+0x8048cbd 22 10 LinkStatus
+0x8048cd7 26 12 Disconnected
+0x8048d07 56 27 DeviceLevelConfigurationRef
+0x8048d43 36 17 DeviceLevelConfig
+0x8048d68 38 18 VirtualizationMode
+0x8048daa 118 58 NumberVFAdvertised[ReadOnlyIfNot:VirtualizationMode=SRIOV]
+0x8048e24 60 29 SRIOVSupport[ProgUnhide:true]
+0x8048e61 58 28 RDMASupport[ProgUnhide:true]
+0x8048ec5 70 34 NumberVFSupported[ProgUnhide:true]
+0x8048f0f 60 29 VFAllocBasis[ProgUnhide:true]
+0x8048f69 58 28 VFAllocMult[ProgUnhide:true]
+0x8048fad 30 14 FrmwImgMenuRef
+0x8048fcc 24 11 FrmwImgMenu
+0x8049009 28 13 FamilyVersion
+0x804902c 22 10 EFIVersion
+0x8049049 28 13 FCoEConfigRef
+0x8049069 36 17 FCoEConfiguration
+0x8049091 22 10 FIPMacAddr
+0x80490ce 184 91 VirtFIPMacAddr[ProgWrite:true][RegEx:^(\1330-9a-fA-F\135{2}\072){5}(\1330-9a-fA-F\135{2})$]
+0x804918a 170 84 VirtWWN[ProgWrite:true][RegEx:^(\1330-9a-fA-F\135{2}\072){7}(\1330-9a-fA-F\135{2})$]
+0x8049238 172 85 VirtWWPN[ProgWrite:true][RegEx:^(\1330-9a-fA-F\135{2}\072){7}(\1330-9a-fA-F\135{2})$]
+0x80492e8 58 28 INTEL_SecondFCoETgtConfigRef
+0x8049323 56 27 INTEL_ThirdFCoETgtConfigRef
+0x804935f 58 28 INTEL_FourthFCoETgtConfigRef
+0x804939d 52 25 INTEL_SecondFCoETgtConfig
+0x80493d2 50 24 INTEL_ThirdFCoETgtConfig
+0x8049405 52 25 INTEL_FourthFCoETgtConfig
+0x8049443 162 80 FirstFCoEWWPNTarget[RegEx:^(\1330-9a-fA-F\135{2}\072){7}(\1330-9a-fA-F\135{2})$]
+0x80494e9 176 87 INTEL_SecondFCoEWWPNTarget[RegEx:^(\1330-9a-fA-F\135{2}\072){7}(\1330-9a-fA-F\135{2})$]
+0x804959a 174 86 INTEL_ThirdFCoEWWPNTarget[RegEx:^(\1330-9a-fA-F\135{2}\072){7}(\1330-9a-fA-F\135{2})$]
+0x8049649 176 87 INTEL_FourthFCoEWWPNTarget[RegEx:^(\1330-9a-fA-F\135{2}\072){7}(\1330-9a-fA-F\135{2})$]
+0x80496fa 46 22 FirstFCoEBootTargetLUN
+0x804972c 60 29 INTEL_SecondFCoEBootTargetLUN
+0x8049769 58 28 INTEL_ThirdFCoEBootTargetLUN
+0x80497a4 60 29 INTEL_FourthFCoEBootTargetLUN
+0x80497e1 38 18 FirstFCoEFCFVLANID
+0x804980b 52 25 INTEL_SecondFCoEFCFVLANID
+0x8049840 50 24 INTEL_ThirdFCoEFCFVLANID
+0x8049873 52 25 INTEL_FourthFCoEFCFVLANID
+0x80498a8 50 24 BootOrderFirstFCoETarget
+0x80498e1 86 42 BootOrderSecondFCoETarget[ProgUnhide:true]
+0x804993b 84 41 BootOrderThirdFCoETarget[ProgUnhide:true]
+0x8049993 86 42 BootOrderFourthFCoETarget[ProgUnhide:true]
+0x80499ea 30 14 iSCSIConfigRef
+0x8049a0c 24 11 iSCSIConfig
+0x8049a25 36 17 IscsiGenParamsRef
+0x8049a4d 30 14 IscsiGenParams
+0x8049a6c 48 23 IscsiInitiatorParamsRef
+0x8049aa0 42 20 IscsiInitiatorParams
+0x8049acb 46 22 IscsiFirstTgtParamsRef
+0x8049afd 40 19 IscsiFirstTgtParams
+0x8049b26 26 12 TcpIpViaDHCP
+0x8049b44 94 46 IscsiViaDHCP[ReadOnlyIf:TcpIpViaDHCP=Disabled]
+0x8049ba6 80 39 Disabled[ForceIf:TcpIpViaDHCP=Disabled]
+0x8049bf7 84 41 Enabled[SuppressIf:TcpIpViaDHCP=Disabled]
+0x8049c4c 30 14 ChapAuthEnable
+0x8049c6e 102 50 ChapMutualAuth[ReadOnlyIf:ChapAuthEnable=Disabled]
+0x8049cd8 84 41 Disabled[ForceIf:ChapAuthEnable=Disabled]
+0x8049d2d 88 43 Enabled[SuppressIf:ChapAuthEnable=Disabled]
+0x8049da1 212 105 IscsiInitiatorIpAddr[ReadOnlyIf:TcpIpViaDHCP=Enabled][RegEx:^(\1330-9\135{1,3}\134.){3}\1330-9\135{1,3}$]
+0x8049e79 574 286 IscsiInitiatorSubnet[ReadOnlyIf:TcpIpViaDHCP=Enabled][RegEx:^(((255\134.){3}(255|254|252|248|240|224|192|128|0+))|((255\134.){2}(255|254|252|248|240|224|192|128|0+)\134.0)|((255\134.)(255|254|252|248|240|224|192|128|0+)(\134.0+){2})|((255|254|252|248|240|224|192|128|0+)(\134.0+){3}))$]
+0x804a0bb 214 106 IscsiInitiatorGateway[ReadOnlyIf:TcpIpViaDHCP=Enabled][RegEx:^(\1330-9\135{1,3}\134.){3}\1330-9\135{1,3}$]
+0x804a195 120 59 IscsiInitiatorName[RegEx:^\133-0-9a-zA-Z.\072_\135{0,223}$]
+0x804a211 150 74 IscsiInitiatorChapId[ReadOnlyIf:ChapAuthEnable=Disabled][RegEx:^.{0,128}$]
+0x804a2ab 158 78 IscsiInitiatorChapPwd[ReadOnlyIf:ChapAuthEnable=Disabled][RegEx:^$|^.{12,16}$]
+0x804a34d 172 85 FirstTgtIpAddress[ProgWrite:true][RegEx:^(\1330-9\135{1,3}\134.){3}\1330-9\135{1,3}$]
+0x804a3fd 64 31 FirstTgtTcpPort[ProgWrite:true]
+0x804a441 64 31 FirstTgtBootLun[ProgWrite:true]
+0x804a485 150 74 FirstTgtIscsiName[ProgWrite:true][RegEx:^\133-0-9a-zA-Z.\072_\135{0,223}$]
+0x804a51f 106 52 FirstTgtChapPwd[ProgWrite:true][RegEx:^$|^.{12,16}$]
+0x804a58d 68 33 iSCSIBootSupport[ProgUnhide:true]
+0x804a5fb 66 32 FCoEBootSupport[ProgUnhide:true]
+0x804a667 64 31 PXEBootSupport[ProgUnhide:true]
+0x804a6d1 80 39 NicPartitioningSupport[ProgUnhide:true]
+0x804a74b 74 36 iSCSIOffloadSupport[ProgUnhide:true]
+0x804a7bf 64 31 FlexAddressing[ProgUnhide:true]
+0x804a829 56 27 TOESupport[ProgUnhide:true]
+0x804a88b 86 42 iSCSIDualIPVersionSupport[ProgUnhide:true]
+0x804a90b 24 11 Unavailable
+0x804a965 22 10 DeviceName
+0x804a997 52 25 x-UEFI Termination String
+0x804aa06 48 23 English (United States)
+0x804aa3a 26 12 SharedMemory
+0x804aa58 24 11 VndrFormSet
+0x804aa74 30 14 VndrConfigPage
+0x804aaaa 178 88 VirtMacAddr[ProgWrite:true][RegEx:^(\1330-9a-fA-F\135{2}\072){5}(\1330-9a-fA-F\135{2})$]
+0x804ab60 36 17 BusDeviceFunction
+0x804abab 24 11 PCIDeviceID
+0x804abec 26 12 NICConfigRef
+0x804ac4f 22 10 10MbpsHalf
+0x804ac66 22 10 10MbpsFull
+0x804ac7d 24 11 100MbpsHalf
+0x804ac96 24 11 100MbpsFull
+0x804acaf 26 12 1000MbpsHalf
+0x804acca 26 12 1000MbpsFull
+0x804ace5 22 10 10GbpsHalf
+0x804acfc 22 10 10GbpsFull
+0x804ad74 22 10 LinkStatus
+0x804ad8e 26 12 Disconnected
+0x804adc1 32 15 LinkSpeedStatus
+0x804ade5 30 14 FrmwImgMenuRef
+0x804ae04 24 11 FrmwImgMenu
+0x804ae41 28 13 FamilyVersion
+0x804ae64 22 10 EFIVersion
+0x804ae84 24 11 Unavailable
+0x804aebb 52 25 x-UEFI Termination String
+0x804af66 126 62 #(,159=ADHKOR(-38=BFKOSW[^beh<BHMRW\`dhloruwySY_dimqtwz|hmrvy|
+0x804cd40 90 44 00000000000000000000%02x%02x%02x%02x%02x%02x
+0x804cda0 14 13 Intel Adapter
+0x804cde8 26 25 Combined Option ROM Image
+0x804ce20 50 24 %02x%02x%02x%02x%02x%02x
+0x804ce58 60 29 %02x:%02x:%02x:%02x:%02x:%02x
+0x804ce98 24 11 Intel 82571
+0x804ceb0 24 11 Intel 82572
+0x804cec8 24 11 Intel 82573
+0x804cee0 24 11 Intel 82574
+0x804cef8 26 12 Intel 82583V
+0x804cf18 36 17 Intel 80003ES2LAN
+0x804cf40 24 11 Intel 82575
+0x804cf58 24 11 Intel 82576
+0x804cf70 24 11 Intel 82580
+0x804cf88 22 10 Intel i350
+0x804cfa0 22 10 Intel i354
+0x804cfb8 22 10 Intel i210
+0x804cfd0 22 10 Intel i211
+0x804d000 70 34 %s - %02x:%02x:%02x:%02x:%02x:%02x
+0x804d048 30 14 %02x:%02x:%02x
+0x804d0b0 11 10 capability
+0x804d0c0 17 16 permanentaddress
+0x804d0d8 13 12 enabledstate
+0x804d0e8 17 16 oemhp_bootenable
+0x804d108 34 16 iSCSI Option ROM
+0x804d130 30 14 PXE Option ROM
+0x804d150 32 15 FCoE Option ROM
+0x804d170 32 15 UEFI x64 Driver
+0x804d1a8 34 16 UEFI IA64 Driver
+0x804d1d0 34 16 UEFI IA32 Driver
+0x804d210 66 32 Unrecognized discrete Option ROM
+0x804d258 34 16 Combined Image (
+0x804d330 25 24 Combo Image Version Name
+0x804d360 74 36 Intel(R) PRO/1000 %1d.%1d.%02d PCI-E
+0x804d3d0 66 32 Exit (maintain current settings)
+0x804d418 46 22 Save settings to NVRAM
+0x804d450 68 33 Set adapter to 10Mbps half duplex
+0x804d4a0 68 33 Set adapter to 10Mbps full duplex
+0x804d4f0 70 34 Set adapter to 100Mbps half duplex
+0x804d540 70 34 Set adapter to 100Mbps full duplex
+0x804d590 86 42 Set adapter to Autonegotiate (recommended)
+0x804d5f0 40 19 100Mbps full duplex
+0x804d618 38 18 10Mbps full duplex
+0x804d640 40 19 100Mbps half duplex
+0x804d668 38 18 10Mbps half duplex
+0x804d690 32 15 Autonegotiation
+0x804d6b0 74 36 Configure adapter speed and duplex\n\r
+0x804d700 36 17 Current setting: 
+0x804d748 44 21 \n\n\rSaving settings...
+0x804d778 42 20 EEPROM write error\n\r
+0x804d7b8 60 29 \n\n\rSettings have not changed\n
+0x804d800 160 79 \n\n\n\n\n\n\rChanged settings have not been saved.  Do you want to exit anyway? (y/n)
+0x804d910 54 26 PhysicalPort%dLogicalPort1
+0x804d948 41 40 Loading VPD from pointer at offset %04X\n
+0x804d978 40 39 LoadVPD: Could not read EEPROM at %04X\n
+0x804d9a0 31 30 NalReadEeprom16 returned %08X\n
+0x804d9c0 23 22 VPD offset is at %04X\n
+0x804d9d8 42 41 Could not read EEPROM at %04X, code %08X\n
+0x804da08 43 42 EEPROM pointer read failed with code %08X\n
+0x804da38 39 38 SaveVPD: writing pointer at %04X/%04X\n
+0x804da60 44 43 EEPROM pointer write failed with code %08X\n
+0x804da90 35 34 SaveVPD: writing %d words at %04X\n
+0x804dab8 31 30 Write failed at VPD offset %d\n
+0x804dad8 36 35 SaveVPD: Checksum write succeeded.\n
+0x804db00 17 16    Raw VPD view\n
+0x804db50 58 57 Error: reached VPD end without seeing SMALL_RESOURCE_END\n
+0x804db90 43 42 In DissectField, byteoffset %d, tag is %d\n
+0x804dbc0 28 27 Error: DissectString: SIZE\n
+0x804dbe0 32 31 Error: DissectString: SIZE (1)\n
+0x804dc00 31 30 Dissected String at offset %d\n
+0x804dc20 13 12 Error: SIZE\n
+0x804dc40 28 27 Found %s Hive at offset %d\n
+0x804dc60 44 43 byteoffset does not match hive_end (%d %d)\n
+0x804dc90 24 23 Error: DissectKey:SIZE\n
+0x804dca8 31 30 Checksum encountered in VPDW!\n
+0x804dcc8 51 50 Error: DissectVPDKey: Unknown '%c%c' at offset %d\n
+0x804dd00 44 43 Dissected %s Key at offset %d: %c%c Len=%d\n
+0x804dd30 24 23 Error: DissectEnd:SIZE\n
+0x804dd48 28 27 Dissected END at offset %d\n
+0x804deb8 11 10 oemhp_ocsd
+0x804dee8 20 19 format=oemhp_binary
+0x804df58 13 12 \nstatus_tag=
+0x804df70 12 11 \nerror_tag=
+0x804dfd8 44 43 Vpd dataCompressed Preboot Master FLB image
+0x804e020 16 15 Signed NVM Head
+0x804e050 11 10 Shared 10G
+0x804e060 14 13 40G Interface
+0x804e070 11 10 Clp-Loader
+0x804e088 12 11 Combo Rules
+0x804e0c0 12 11 iSCSI Setup
+0x804e100 14 13 signature.bin
+0x804e150 104 51 Intel(R) Ethernet Connection I354 2.5 GbE Backplane
+0x804e1c0 68 33 Intel(R) Ethernet Connection I354
+0x804e210 104 51 Intel(R) Ethernet Connection I354 1.0 GbE Backplane
+0x804e280 84 41 Intel(R) I211 Gigabit  Network Connection
+0x804e2e0 68 33 Intel(R) Ethernet I210-T1 GbE NIC
+0x804e330 82 40 Intel(R) Ethernet Server Adapter I210-T1
+0x804e390 86 42 Intel(R) I210 Gigabit Backplane Connection
+0x804e3f0 82 40 Intel(R) I210 Gigabit Network Connection
+0x804e450 88 43 Intel(R) I210 Gigabit  Backplane Connection
+0x804e4b0 96 47 Intel(R) I210 Gigabit  Fiber Network Connection
+0x804e510 84 41 Intel(R) I210 Gigabit  Network Connection
+0x804e570 74 36 Lenovo ThinkServer I350-T4 AnyFabric
+0x804e5c0 74 36 Quanta Dual Port 1G BASE-T Mezzanine
+0x804e610 104 51 Sun Quad Port GbE PCIe 2.0 Low Profile Adapter, UTP
+0x804e680 92 45 Sun Quad Port GbE PCIe 2.0 ExpressModule, UTP
+0x804e6e0 92 45 Sun Quad Port GbE PCIe 2.0 ExpressModule, MMF
+0x804e740 104 51 Sun Dual Port GbE PCIe 2.0 Low Profile Adapter, MMF
+0x804e7b0 98 48 HPE Ethernet 1Gb 4-port 366i Communication Board
+0x804e820 74 36 HPE Ethernet 1Gb 2-port 363i Adapter
+0x804e870 78 38 HPE Ethernet 1Gb 2-port 361FLB Adapter
+0x804e8c0 74 36 HPE Ethernet 1Gb 4-port 366M Adapter
+0x804e910 74 36 HPE Ethernet 1Gb 4-port 366T Adapter
+0x804e960 74 36 HPE Ethernet 1Gb 2-port 367i Adapter
+0x804e9b0 78 38 HPE Ethernet 1Gb 4-port 366FLR Adapter
+0x804ea00 74 36 HPE Ethernet 1Gb 2-port 361T Adapter
+0x804ea50 74 36 HPE Ethernet 1Gb 4-port 366i Adapter
+0x804eaa0 74 36 HPE Ethernet 1Gb 2-port 361i Adapter
+0x804eaf0 74 36 HPE Ethernet 1Gb 1-port 364i Adapter
+0x804eb40 70 34 Intel(R) Gigabit 4P X550/I350 rNDC
+0x804eb88 60 29 Intel(R) Gigabit 4P I350 bNDC
+0x804ebc8 58 28 Intel(R) Gigabit 2P I350 LOM
+0x804ec08 56 27 Intel(R) Gigabit I350-t LOM
+0x804ec40 70 34 Intel(R) Gigabit 4P X710/I350 rNDC
+0x804ec88 62 30 Intel(R) Gigabit 2P I350-t LOM
+0x804ecd0 70 34 Intel(R) Gigabit 4P X520/I350 rNDC
+0x804ed20 70 34 Intel(R) Gigabit 4P X540/I350 rNDC
+0x804ed70 64 31 Intel(R) Gigabit 4P I350-t rNDC
+0x804edb0 82 40 Intel(R) Ethernet Server Adapter I350-F1
+0x804ee10 64 31 Intel(R) Gigabit 4P I350-t Mezz
+0x804ee50 70 34 Intel(R) Gigabit 4P I350-t Adapter
+0x804eea0 70 34 Intel(R) Gigabit 2P I350-t Adapter
+0x804eef0 82 40 Intel(R) Ethernet Server Adapter I350-F2
+0x804ef50 82 40 Intel(R) Ethernet Server Adapter I350-F4
+0x804efb0 82 40 Intel(R) Ethernet Server Adapter I350-T2
+0x804f010 82 40 Intel(R) Ethernet Server Adapter I350-T4
+0x804f070 66 32 Intel(R) I350 Gigabit Connection
+0x804f0c0 86 42 Intel(R) I350 Gigabit Backplane Connection
+0x804f120 94 46 Intel(R) I350 Gigabit Fiber Network Connection
+0x804f180 82 40 Intel(R) I350 Gigabit Network Connection
+0x804f1e0 112 55 Intel(R) DH8900CC Series Gigabit SFP Network Connection
+0x804f250 124 61 Intel(R) DH8900CC Series Gigabit Backplane Network Connection
+0x804f2d0 116 57 Intel(R) DH8900CC Series Gigabit Fiber Network Connection
+0x804f350 104 51 Intel(R) DH8900CC Series Gigabit Network Connection
+0x804f3c0 82 40 Intel(R) Ethernet Server Adapter I340-F4
+0x804f420 82 40 Intel(R) Ethernet Server Adapter I340-T2
+0x804f480 82 40 Intel(R) Ethernet Server Adapter I340-T4
+0x804f4e0 76 37 Intel(R) 82580 Gigabit SFP Connection
+0x804f530 88 43 Intel(R) 82580 Gigabit Backplane Connection
+0x804f590 96 47 Intel(R) 82580 Gigabit Fiber Network Connection
+0x804f5f0 98 48 HPE NC365T PCIe Quad Port Gigabit Server Adapter
+0x804f660 84 41 Intel(R) 82580 Gigabit Network Connection
+0x804f6c0 90 44 Intel(R) Gigabit VT Quad Port Server Adapter
+0x804f720 92 45 Intel(R) 82575EB Gigabit Backplane Connection
+0x804f780 88 43 Intel(R) 82575EB Gigabit Network Connection
+0x804f7e0 90 44 Intel(R) Gigabit ET Quad Port Mezzanine Card
+0x804f840 104 51 Intel(R) 82576NS SerDes Gigabit Ethernet Controller
+0x804f8b0 90 44 Intel(R) 82576NS Gigabit Ethernet Controller
+0x804f910 92 45 Intel(R) Gigabit ET2 Quad Port Server Adapter
+0x804f970 90 44 Intel(R) Gigabit ET Quad Port Server Adapter
+0x804f9d0 118 58 Intel(R) 82576 Gigabit Dual Port Server Network Connection
+0x804fa50 90 44 Intel(R) Gigabit EF Dual Port Server Adapter
+0x804fab0 90 44 Intel(R) Gigabit ET Dual Port Server Adapter
+0x804fb10 104 51 Intel(R) 82576 Gigabit Dual Port Network Connection
+0x804fb80 88 43 Intel(R) PRO/1000 EB1 Backplane Connection 
+0x804fbe0 86 42 Intel(R) PRO/1000 EB Backplane Connection 
+0x804fc40 84 41 Intel(R) PRO/1000 EB1 Network Connection 
+0x804fca0 82 40 Intel(R) PRO/1000 EB Network Connection 
+0x804fd00 86 42 Intel(R) 82583V Gigabit Network Connection
+0x804fd60 82 40 HP NC112i 1-port Ethernet Server Adapter
+0x804fdc0 74 36 Intel(R) Gigabit CT2 Desktop Adapter
+0x804fe10 72 35 Intel(R) Gigabit CT Desktop Adapter
+0x804fe60 86 42 Intel(R) 82574L Gigabit Network Connection
+0x804fec0 80 39 Intel(R) PRO/1000 PL Network Connection
+0x804ff10 80 39 Intel(R) PRO/1000 PM Network Connection
+0x804ff60 76 37 HP NC110T PCIe Gigabit Server Adapter
+0x804ffb0 74 36 Intel(R) PRO/1000 PT Desktop Adapter
+0x8050000 78 38 Intel(R) PRO/1000 PB Server Connection
+0x8050050 72 35 Intel(R) PRO/1000 PF Server Adapter
+0x80500a0 80 39 Intel(R) PRO/1000 PF Network Connection
+0x80500f0 80 39 Intel(R) PRO/1000 PT Network Connection
+0x8050140 72 35 Intel(R) PRO/1000 PT Server Adapter
+0x8050190 96 47 HP NC364T PCIe Quad Port Gigabit Server Adapter
+0x80501f0 98 48 Intel(R) PRO/1000 PT Quad Port LP server Adapter
+0x8050260 92 45 Intel(R) PRO/1000 PF Quad Port Server Adapter
+0x80502c0 102 50 Intel(R) Gigabit PT Quad Port Server ExpressModule
+0x8050330 92 45 Intel(R) PRO/1000 PT Quad Port Server Adapter
+0x8050390 98 48 Intel(R) PRO/1000 PB Dual Port Server Connection
+0x8050400 92 45 Intel(R) PRO/1000 PF Dual Port Server Adapter
+0x8050460 82 40 HP NC360T PCIe DP Gigabit Server Adapter
+0x80504c0 92 45 Intel(R) PRO/1000 PT Dual Port Server Adapter
+0x8050520 98 48 Intel(R) PRO/1000 PT Dual Port Server Connection
+0x8050590 100 49 Intel(R) PRO/1000 PT Dual Port Network Connection
+0x80505f8 17 16 Compromised Data
+0x8050610 17 16 Invalid Language
+0x8050628 12 11 End of File
+0x8050638 14 13 Reserved (30)
+0x8050648 14 13 Reserved (29)
+0x8050658 13 12 End of Media
+0x8050678 19 18 Security Violation
+0x8050690 21 20 Incompatible Version
+0x80506a8 15 14 Protocol Error
+0x80506b8 11 10 TFTP Error
+0x80506c8 11 10 ICMP Error
+0x80506e0 16 15 Already started
+0x80506f0 12 11 Not started
+0x8050710 11 10 No mapping
+0x8050720 12 11 No Response
+0x8050730 14 13 Access Denied
+0x8050750 14 13 Media changed
+0x8050770 12 11 Volume Full
+0x8050780 15 14 Volume Corrupt
+0x8050790 17 16 Out of Resources
+0x80507a8 16 15 Write Protected
+0x80507b8 13 12 Device Error
+0x80507d8 17 16 Buffer Too Small
+0x80507f0 16 15 Bad Buffer Size
+0x8050800 12 11 Unsupported
+0x8050810 18 17 Invalid Parameter
+0x8050828 11 10 Load Error
+0x8050838 19 18 Warning Stale Data
+0x8050850 25 24 Warning Buffer Too Small
+0x8050870 22 21 Warning Write Failure
+0x8050888 23 22 Warning Delete Failure
+0x80508a0 22 21 Warning Unknown Glyph
+0x8050a08 14 13 <null string>
+0x8050a18 12 11 <null guid>
+0x8050a28 49 48 %08x-%04x-%04x-%02x%02x-%02x%02x%02x%02x%02x%02x
+0x8050a60 12 11 <null time>
+0x8050a70 26 25 %02d/%02d/%04d  %02d:%02d
+0x8050b50 26 12 PlatformLang
+0x55a20 13 12 \nWashington1
+0x55a35 10 9 \aRedmond1
+0x55a48 26 25 Microsoft Corporation1+0)
+0x55a67 37 36 "Microsoft Corporation UEFI CA 20110
+0x55ac4 13 12 \nWashington1
+0x55ad9 10 9 \aRedmond1
+0x55aec 26 25 Microsoft Corporation1\r0\v
+0x55b1a 42 41 'Microsoft Windows UEFI Driver Publisher0
+0x55cd8 46 45 +229911+42019dd0-4379-4e19-8280-8d8e78e4ad410
+0x55d37 70 69 Bhttp://www.microsoft.com/pkiops/crl/MicCorUEFCA2011_2011-06-27.crl0`
+0x55d97 72 71 Dhttp://www.microsoft.com/pkiops/certs/MicCorUEFCA2011_2011-06-27.crt0\f
+0x55ee7 7 6 _awLKf
+0x55f40 13 12 \nWashington1
+0x55f55 10 9 \aRedmond1
+0x55f68 26 25 Microsoft Corporation1;09
+0x55f87 53 52 2Microsoft Corporation Third Party Marketplace Root0
+0x55ff4 13 12 \nWashington1
+0x56009 10 9 \aRedmond1
+0x5601c 26 25 Microsoft Corporation1+0)
+0x5603b 37 36 "Microsoft Corporation UEFI CA 20110
+0x5625c 67 66 microsoft.com/pki/crl/products/MicCorThiParMarRoo_2010-10-05.crl0`
+0x562b9 72 71 Dhttp://www.microsoft.com/pki/certs/MicCorThiParMarRoo_2010-10-05.crt0\r
+0x5653a 13 12 \nWashington1
+0x5654f 10 9 \aRedmond1
+0x56562 26 25 Microsoft Corporation1+0)
+0x56581 36 35 "Microsoft Corporation UEFI CA 2011
+0x5667c 38 37 microsoft.com/whdc/hcl/default.mspx0\r
+0x5689a 13 12 \nWashington1
+0x568af 10 9 \aRedmond1
+0x568c2 26 25 Microsoft Corporation1\r0\v
+0x568f1 35 34 nCipher DSE ESN:98FD-C61E-E6411%0#
+0x5691a 29 28 Microsoft Time-Stamp Service
+0x5697c 13 12 \nWashington1
+0x56991 10 9 \aRedmond1
+0x569a4 26 25 Microsoft Corporation1200
+0x569c3 44 43 )Microsoft Root Certificate Authority 20100
+0x569ff 21 20 \r250701214655Z0|1\v0\t
+0x56a26 13 12 \nWashington1
+0x56a3b 10 9 \aRedmond1
+0x56a4e 26 25 Microsoft Corporation1&0$
+0x56a6e 31 30 Microsoft Time-Stamp PCA 20100
+0x56c62 61 60 microsoft.com/pki/crl/products/MicRooCerAut_2010-06-23.crl0Z
+0x56cb9 65 64 >http://www.microsoft.com/pki/certs/MicRooCerAut_2010-06-23.crt0
+0x56d27 53 52 1http://www.microsoft.com/PKI/docs/CPS/default.htm0@
+0x56d6c 46 22 Legal_Policy_Statement
+0x56ff9 13 12 \nWashington1
+0x5700e 10 9 \aRedmond1
+0x57021 26 25 Microsoft Corporation1&0$
+0x57041 31 30 Microsoft Time-Stamp PCA 20100
+0x57098 13 12 \nWashington1
+0x570ad 10 9 \aRedmond1
+0x570c0 26 25 Microsoft Corporation1\r0\v
+0x570ef 35 34 nCipher DSE ESN:98FD-C61E-E6411%0#
+0x57118 30 29 Microsoft Time-Stamp Service0
+0x572b4 73 72 Ehttp://crl.microsoft.com/pki/crl/products/MicTimStaPCA_2010-07-01.crl0Z
+0x57317 66 65 >http://www.microsoft.com/pki/certs/MicTimStaPCA_2010-07-01.crt0\f
+0x574bb 13 12 \nWashington1
+0x574d0 10 9 \aRedmond1
+0x574e3 26 25 Microsoft Corporation1\r0\v
+0x57512 35 34 nCipher DSE ESN:98FD-C61E-E6411%0#
+0x5753b 29 28 Microsoft Time-Stamp Service
+0x575a1 13 12 \nWashington1
+0x575b6 10 9 \aRedmond1
+0x575c9 26 25 Microsoft Corporation1\r0\v
+0x575f8 35 34 nCipher NTS ESN:57F6-C1E0-554C1+0)
+0x57620 38 37 "Microsoft Time Source Master Clock0\r
+0x57830 13 12 \nWashington1
+0x57845 10 9 \aRedmond1
+0x57858 26 25 Microsoft Corporation1&0$
+0x57878 30 29 Microsoft Time-Stamp PCA 2010
+0x5795d 13 12 \nWashington1
+0x57972 10 9 \aRedmond1
+0x57985 26 25 Microsoft Corporation1&0$
+0x579a5 30 29 Microsoft Time-Stamp PCA 2010

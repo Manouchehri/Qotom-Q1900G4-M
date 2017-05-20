@@ -1,0 +1,28 @@
+arch     x86
+binsz    359176
+bintype  pe
+bits     64
+canary   false
+class    PE32+
+cmp.csum 0x000600f4
+compiled Thu Jan  1 00:00:00 1970
+crypto   false
+endian   little
+havecode true
+hdr.csum 0x000600f4
+linenum  false
+lsyms    false
+machine  AMD 64
+maxopsz  16
+minopsz  1
+nx       false
+os       efi
+overlay  false
+pcalign  0
+pic      false
+relocs   false
+signed   true
+static   true
+stripped true
+subsys   EFI Boot Service Driver
+va       true
