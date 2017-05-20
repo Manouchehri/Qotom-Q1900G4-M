@@ -7,10 +7,12 @@ tl;dr:
 - Intel Celeron J1900 (Quad @ 1.99GHz)
 - 4x Intel I211-AT Gigabit Controller (each connected via a internal PCIe x1 link)
 - Full height Mini PCIe slot (mSATA only)
-- Half height Mini PCIe slot (USB 2.0 only)
+- Half* height Mini PCIe slot (USB 2.0 only)
 - 2.5" SATA Connector (including power)
 - Ralink RT3070 2.4GHz 802.11 b/g/n (connected via USB 2.0 the half height Mini PCIe slot)
-- SIM card slot (serial)
+- SIM card slot (serial 16550A)
+
+_* If you add a screw, it could probably hold a full height card._
 
 Hardware Notes: 
 
