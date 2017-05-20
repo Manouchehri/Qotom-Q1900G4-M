@@ -10,6 +10,7 @@ tl;dr:
 - Half height Mini PCIe slot (USB 2.0 only)
 - 2.5" SATA Connector (including power)
 - Ralink RT3070 2.4GHz 802.11 b/g/n (connected via USB 2.0 the half height Mini PCIe slot)
+- SIM card slot (serial)
 
 Hardware Notes: 
 
